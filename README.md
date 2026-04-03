@@ -394,9 +394,6 @@ Si necesitas cambiar puertos: Modifica los puertos en la sección ports del dock
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## 👥 Autores
-
-- **Luis Pérez Contreras** - *Desarrollo inicial* - [@PerezContrerasLuis](https://github.com/PerezContrerasLuis)
 
 ## 🙏 Agradecimientos
 
