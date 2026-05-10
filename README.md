@@ -403,5 +403,3 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - Todos los contribuidores que han ayudado con este proyecto
 
 ---
-
-**Nota:** Este README se actualizará con capturas de pantalla reales y características específicas conforme el proyecto evolucione.
